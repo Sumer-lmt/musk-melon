@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+if [ -e /usr/bin/MuskMelon ]; then
+    rm /usr/bin/MuskMelon
+    rm /usr/bin/MuskMelonLauncher.sh
+fi

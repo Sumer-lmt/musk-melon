@@ -1,0 +1,33 @@
+display_name: Musk Melon
+icon: linux/packaging/assets/logo.png
+group: Applications/Office
+vendor: Musk Melon
+packager: Musk Melon
+packagerEmail: support@appflowy.io
+license: APGL-3.0
+url: https://github.com/AppFlowy-IO/appflowy
+
+build_arch: x86_64
+
+keywords:
+  - Musk Melon
+  - Office
+  - Document
+  - Database
+  - Note
+  - Kanban
+  - Note
+
+generic_name: Musk Melon
+
+categories:
+  - Office
+  - Productivity
+
+startup_notify: true
+
+supportedMimeType: x-scheme-handler/appflowy-flutter
+
+requires:
+  - libnotify
+  - keybinder

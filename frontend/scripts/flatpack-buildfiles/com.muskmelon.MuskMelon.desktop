@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Musk Melon
+Icon=com.muskmelon.MuskMelon
+Exec=MuskMelon %U
+Categories=Network;Productivity;
+Keywords=Notes
+DBusActivatable=true
+Implements=io.appflowy.Appflowy;

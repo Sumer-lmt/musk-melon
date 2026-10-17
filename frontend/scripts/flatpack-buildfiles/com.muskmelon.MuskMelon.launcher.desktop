@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Musk Melon Launcher
+Exec=launcher.sh %u
+MimeType=x-scheme-handler/appflowy-flutter;
